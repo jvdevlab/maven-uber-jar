@@ -1,11 +1,10 @@
 ## Blog Post
 
-:scroll: See this [blog post](https://jvdevlab.com/blog/jee/properties-loading) for more details about this project.
+:scroll: See this [blog post](https://jvdevlab.com/blog/tools/maven/uber-jar) for more details about this project.
 
 ## Description
 
 This project shows how to create an uber jar using maven.
-
 
 ## Setup
 
